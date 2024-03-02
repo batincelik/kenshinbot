@@ -76,7 +76,7 @@ Kenshin BOT, Discord sunucularında kullanılmak üzere geliştirilmiş bir çok
 - `hpbalance`: Profilinize `hpbalance` efekti ekler.
 - `hpbravery`: Profilinize `hpbravery` efekti ekler.
 - `hpbrillance`: Profilinize `hpbrillance` efekti ekler.
-- `hpevent`: Profilinize `hpevent`
+- `hpevent`: Profilinize `hpevent` efekti ekler.
 
  efekti ekler.
 - `dcpartner`: Profilinize `dcpartner` efekti ekler.
